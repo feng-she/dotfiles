@@ -1,0 +1,13 @@
+
+# OS
+.DS_Store
+
+# cache / tmp
+*.log
+*.tmp
+.cache/
+node_modules/
+
+# secrets
+.env
+.env.*
