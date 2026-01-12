@@ -7,7 +7,7 @@
 *.tmp
 .cache/
 node_modules/
-
+.idea/
 # secrets
 .env
 .env.*
